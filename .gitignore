@@ -1,49 +1,49 @@
-# Criado por https://www.toptal.com/developers/gitignore/api/java,visualstudiocode
-# Edite em https://www.toptal.com/developers/gitignore?templates=java,visualstudiocode
+# Created by https://www.toptal.com/developers/gitignore/api/java,visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=java,visualstudiocode
 
 ### Java ###
-# Arquivo de classe compilado
-*.aula
+# Compiled class file
+*.class
 
-# Arquivo de log
-*.registro
+# Log file
+*.log
 
-# Arquivos BlueJ
+# BlueJ files
 *.ctxt
 
-# Ferramentas móveis para Java (J2ME)
+# Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-# Arquivos de pacote #
+# Package Files #
 *.jar
-*.guerra
+*.war
 *.nar
-*.orelha
+*.ear
 *.zip
 *.tar.gz
 *.rar
 
-# registros de falhas da máquina virtual, consulte http://www.java.com/en/download/help/error_hotspot.xml
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
 
-### Código do VisualStudio ###
+### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
-!.vscode/extensões.json
-!.vscode/*.trechos de código
+!.vscode/extensions.json
+!.vscode/*.code-snippets
 
-# Histórico local para o Visual Studio Code
-.história/
+# Local History for Visual Studio Code
+.history/
 
-# Extensões do Visual Studio Code criadas
+# Built Visual Studio Code Extensions
 *.vsix
 
-### Patch do VisualStudioCode ###
-# Ignorar todo o histórico local de arquivos
-.história
-.ionídeo
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
 
-# Fim de https://www.toptal.com/developers/gitignore/api/java,visualstudiocode
+# End of https://www.toptal.com/developers/gitignore/api/java,visualstudiocode
