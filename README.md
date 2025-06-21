@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=BLUE&style=for-the-badge" alt="Status do Projeto: Concluído"/>
+  <img src="https://img.shields.io/static/v1?label=STATUS&message=CONCLU%C3%8DDO&color=BLUE&style=for-the-badge" alt="Status do Projeto: Concluído"/>
   <img src="https://img.shields.io/badge/Linguagem-Java-yellow?style=for-the-badge&logo=java" alt="Linguagem Java"/>
 </p>
 
